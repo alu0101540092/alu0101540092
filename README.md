@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on something cool!
+- 🌱 I’m currently learning with help from [docs.github.com](https://docs.github.com/es)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/samuelfriher/)
+- 😄 Pronouns: he/his
+
 <!--
 **alu0101540092/alu0101540092** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
